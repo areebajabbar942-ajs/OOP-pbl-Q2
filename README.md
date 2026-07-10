@@ -1,4 +1,4 @@
-# 🚖 Ride-Sharing App Prototype (OOP)
+# 🚖 Ride-Sharing App (OOP)
 
 ## Overview
 This project is an Object-Oriented Programming (OOP) prototype of a Ride-Sharing Application developed as a university assignment. It models the interactions between riders, drivers, and trips while applying the principles of encapsulation and abstraction.

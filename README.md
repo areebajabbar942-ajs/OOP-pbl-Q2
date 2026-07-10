@@ -31,6 +31,4 @@ This project is an Object-Oriented Programming (OOP) prototype of a Ride-Sharing
 ## Learning Outcomes
 This project demonstrates how Object-Oriented Programming principles can be used to design a secure, maintainable, and scalable ride-sharing system.
 
-## Author
-Areeba Jabbar  
-Bachelor of Information Technology (BIT)
+

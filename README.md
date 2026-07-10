@@ -1,7 +1,7 @@
 # 🚖 Ride-Sharing App (OOP)
 
 ## Overview
-This project is an Object-Oriented Programming (OOP) prototype of a Ride-Sharing Application developed as a university assignment. It models the interactions between riders, drivers, and trips while applying the principles of encapsulation and abstraction.
+This project is an Object-Oriented Programming (OOP) design of a Ride-Sharing Application. It models the interactions between riders, drivers, and trips while applying the principles of encapsulation and abstraction to create a secure, modular, and scalable system.
 
 ## Features
 - Rider and Driver management
